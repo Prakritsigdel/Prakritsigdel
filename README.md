@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Prakrit Sigdel
 
-<!--
-**Prakritsigdel/Prakritsigdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m currently learning **Python, JavaScript.**
+- 💻 I love coding in **Python, JavaScript,**
+- 🎯 Goal: Build impactful open-source projects
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakritsigdel0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects
+- [My Cool Project](https://github.com/Prakritsigdel/YouTube-clone) 🚀
+
+## 📊 GitHub Stats
+!(https://github-readme-stats.vercel.app/api?username=Prakritsigdel&show_icons=true&theme=radical)
